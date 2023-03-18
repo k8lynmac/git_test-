@@ -1,0 +1,2 @@
+adding text here to see how git stages 
+adding more text bc the staging didnt work 
